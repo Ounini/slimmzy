@@ -1,2 +1,0 @@
-# slimmzy
-coursera test
